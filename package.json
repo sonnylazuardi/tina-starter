@@ -10,7 +10,7 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
-    "@tinacms/auth": "^0.50.2",
+    "@tinacms/auth": "^0.50.3",
     "@tinacms/cli": "^0.60.0",
     "@xstyled/styled-components": "^3.0.0",
     "gray-matter": "^4.0.2",
